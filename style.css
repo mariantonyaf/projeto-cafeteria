@@ -85,6 +85,10 @@ section{
     display: inline-block;
 }
 
+.btn:hover{
+    letter-spacing: 0.1rem;
+}
+
 .home-container{
     background: url("img/home-img.jpg");
     height: 100vh;
@@ -120,7 +124,7 @@ section{
     color: var(--main-color);
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
 }
 
 .title span{
