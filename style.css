@@ -74,6 +74,36 @@ section{
 
 /* HOME CONTAINER */
 
-.content{
+.btn{
+    background: var(--main-color);
     color: #fff;
+    padding: 1rem 3rem;
+    font-size: 1.7rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    display: inline-block;
+}
+
+.home-container{
+    background: url("img/home-img.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.content{
+    max-width: 60rem;
+}
+
+.content h3{
+    color: #fff;
+    font-size: 6rem;
+}
+
+.content p{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 100;
+    line-height: 1.8;
+    padding: 1rem 0;
 }
