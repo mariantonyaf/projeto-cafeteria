@@ -116,10 +116,11 @@ section{
 }
 
 .title{
-    font-size: 5rem;
+    font-size: 4rem;
     color: var(--main-color);
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 2rem;
 }
 
 .title span{
@@ -131,5 +132,21 @@ section{
     display: flex;
     align-items: center;
     background-color: var(--black);
-    gap: 2rem;
+    gap: 1.5rem;
+}
+
+.about .row .content{
+    padding: 4rem;
+}
+
+.about .row .content h3{
+    font-size: 3rem;
+    color: #fff;
+}
+
+.about .row .content p{
+    font-size: 1.6rem;
+    color: #fff;
+    padding: 1rem 0;
+    line-height: 1.8;
 }
