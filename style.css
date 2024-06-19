@@ -30,6 +30,8 @@ section{
     max-width: 1200px;
 }
 
+/* HEADER */
+
 .header{
     position: fixed;
     top: 0;
@@ -68,4 +70,10 @@ section{
 .icons img:hover{
     width: 40px;
     height: 40px;
+}
+
+/* HOME CONTAINER */
+
+.content{
+    color: #fff;
 }
