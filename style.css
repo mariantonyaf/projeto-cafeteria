@@ -157,7 +157,7 @@ section{
 
 /* MENU */
 
-.menu .box-container{
+.box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 1.5rem;
@@ -199,3 +199,5 @@ section{
 .menu .box-container .box:hover>*{
     color: var(--black);
 }
+
+/* REVIEW */
