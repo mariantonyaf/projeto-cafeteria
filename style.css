@@ -253,3 +253,7 @@ section{
     border-radius: 50%;
     padding: 1rem;
 }
+
+.footer .share img:hover{
+    background-color: var(--main-color);
+}
