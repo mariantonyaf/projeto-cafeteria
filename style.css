@@ -201,3 +201,22 @@ section{
 }
 
 /* REVIEW */
+
+.review .box-container .box{
+    border: var(--border);
+    align-items: center;
+    padding: 3rem 2rem;
+}
+
+.review .box-container .box p{
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 2rem 0;
+    line-height: 1.8;
+}
+
+.review .box-container .box img{
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+}
