@@ -215,7 +215,7 @@ section{
     line-height: 1.8;
 }
 
-.review .box-container .box img{
+.review .box-container .box .user{
     height: 7rem;
     width: 7rem;
     border-radius: 50%;
